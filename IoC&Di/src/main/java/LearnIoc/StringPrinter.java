@@ -1,3 +1,5 @@
+package LearnIoc;
+
 public class StringPrinter implements Printer{
     private StringBuffer buffer =new StringBuffer();
     @Override
